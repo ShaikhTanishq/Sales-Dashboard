@@ -1,1 +1,48 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+// body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.scene .mat-mdc-raised-button .mdc-button__label{
+    z-index: 0;
+  }
+
+  @font-face {
+    font-family: 'DMSans-Italic';
+    src: url('/assets/fonts/DM_Sans/DMSans-Italic-VariableFont_opsz,wght.ttf');
+  }
+
+  @font-face {
+    font-family: 'DMSans';
+    src: url('/assets/fonts/DM_Sans/DMSans-VariableFont_opsz,wght.ttf');
+  }
+
+
+  @font-face {
+    font-family: 'WorkSans-Italic';
+    src: url('/assets/fonts/Work_Sans/WorkSans-Italic-VariableFont_wght.ttf');
+  }
+
+  @font-face {
+    font-family: 'WorkSans';
+    src: url('/home/mlpluser/task6/src/assets/fonts/Work_Sans/WorkSans-VariableFont_wght.ttf');
+  }
+  
+  @font-face {
+    font-family: 'Alfa_Slab';
+    src: url('/home/mlpluser/task6/src/assets/fonts/Alfa_Slab_One/AlfaSlabOne-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: 'Alexandria';
+    src: url('/home/mlpluser/task6/src/assets/fonts/Alexandria/Alexandria-VariableFont_wght.ttf');
+  }
+
+  @font-face {
+    font-family: 'Bevan-Italic';
+    src: url('/home/mlpluser/task6/src/assets/fonts/Bevan/Bevan-Italic.ttf');
+  }
+
+  @font-face {
+    font-family: 'Bevan-Regular';
+    src: url('/home/mlpluser/task6/src/assets/fonts/Bevan/Bevan-Regular.ttf');
+  }
